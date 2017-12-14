@@ -1,0 +1,17 @@
+.notes-app {
+  max-width: 1140px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.app-header {
+  font-size: 30px;
+}
+
+.notes-delete-all {
+  display: inline-block;
+  margin-bottom: 20px;
+  font-weight: 700;
+  text-decoration: underline;
+  cursor: pointer;
+}
